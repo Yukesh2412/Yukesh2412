@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Android Dev !! <br>🤝 Passionate about Mobile Application Development<br>🌱 Android Studio on Pentium <br/> ⚡ Fun fact : BREATHE AIR!
+🔭 Passionate Software Dev...<br>🤝 Works on Frond End and Mobile App Development<br>🌱 Android Studio on Pentium <br/> ⚡ Fun fact : BREATHE AIR!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yukesh-h-420a9b1ba/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Yukesh99548600) 
